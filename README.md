@@ -26,6 +26,10 @@ This repository serves as a centralized resource for Oracle Database professiona
 ```bash
 git clone https://github.com/your-organization/oracle-database-repo.git
 cd oracle-database-repo
+```
+2. Check the setup guides in the Documentation folder
+3. Configure your Oracle Database
+
 ## 📁 Content Overview
 
 ### Academic Reports

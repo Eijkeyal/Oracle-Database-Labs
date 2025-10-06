@@ -46,12 +46,15 @@ cd oracle-database-repo
 - Practical examples and solutions
 - Ready-to-use code samples
 
-###🧩 Database Design
+### 🧩 Database Design
 - ER diagrams and models
 - Normalization and data modeling
 - Data modeling techniques
 - Design best practices
 - Pattern examples
+
+📚 Documentation
+Find detailed setup guides, design documentation, and performance reports in the /Database Academic Work folder.
 
 ## 🤝 Contributing
 

@@ -39,7 +39,7 @@ cd oracle-database-repo
 - Performance analysis reports
 - Architecture deep dives
 
-### SQL Scripts
+### 💾 SQL Scripts
 - Basic to advanced queries
 - Stored procedures and functions
 - Database triggers and packages

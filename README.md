@@ -5,15 +5,15 @@ A comprehensive knowledge base and code repository for Oracle Database technolog
 ## Repository Overview
 
 This repository serves as a centralized resource for Oracle Database professionals, students, and researchers. It combines theoretical foundations with practical applications, providing end-to-end coverage of Oracle Database concepts and implementations.
-## 🎯 Objectives
 
+## 🎯 Objectives
 - Preserve and share Oracle Database knowledge
 - Support academic learning and research
 - Help professionals develop database skills
 - Promote industry best practices
 - Encourage innovation through examples
 
-## 🛠 Technical Requirements
+## 🧰 Technical Requirements
 
 ### What You Need
 - Oracle Database 12c or newer
@@ -29,9 +29,9 @@ cd oracle-database-repo
 ```
 2. Check the setup guides in the Documentation folder
 3. Configure your Oracle Database
+4. Explore examples and reports
 
 ## 📁 Content Overview
-
 ### Academic Reports
 - Database theory and concepts
 - Research papers on database tech

@@ -64,11 +64,12 @@ We welcome contributions! Feel free to:
 - Submit performance tips
 - Improve documentation
 - Report issues or suggest features
+
 To contribute, simply fork the repository and open a pull request.
 
 ## 📄 License
 
-MIT License - see LICENSE file for details.This repository is licensed under the MIT License — see the LICENSE file for details.
+
 
 ## 📞 Support
 

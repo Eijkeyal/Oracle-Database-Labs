@@ -67,12 +67,6 @@ We welcome contributions! Feel free to:
 
 To contribute, simply fork the repository and open a pull request.
 
-## 📄 License
-This project is licensed under the **MIT License**.  
-You are free to **use, copy, modify, merge, publish, distribute, sublicense, and/or sell** copies of this software, subject to including the original copyright and license notice.  
-
-See the full [LICENSE](./LICENSE) file for details.
-
 
 ## 🙏 Acknowledgments
 
@@ -80,3 +74,18 @@ See the full [LICENSE](./LICENSE) file for details.
 - Academic institutions
 - Open source community
 - All contributors
+- 
+## 👤 Author
+**Eijkeyal Pakhrin**
+- GitHub: [Eijkeyal](https://github.com/Eijkeyal)  
+- LinkedIn: [Eijkeyal Pakhrin](https://www.linkedin.com/in/eijkeyal-pakhrin/)  
+- Credly: [Eijkeyal Pakhrin](https://www.credly.com/users/eijkeyal-pakhrin)  
+
+
+## 📄 License
+This project is licensed under the **MIT License**.  
+You are free to **use, copy, modify, merge, publish, distribute, sublicense, and/or sell** copies of this software, subject to including the original copyright and license notice.  
+
+See the full [LICENSE](./LICENSE) file for details.
+
+

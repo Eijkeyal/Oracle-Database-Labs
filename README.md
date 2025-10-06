@@ -74,14 +74,6 @@ You are free to **use, copy, modify, merge, publish, distribute, sublicense, and
 See the full [LICENSE](./LICENSE) file for details.
 
 
-
-## 📞 Support
-
-Need help?
-- Open a GitHub issue
-- Check documentation folder
-- Review tutorials and examples
-
 ## 🙏 Acknowledgments
 
 - Oracle Corporation

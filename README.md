@@ -32,7 +32,7 @@ cd oracle-database-repo
 4. Explore examples and reports
 
 ## 📁 Content Overview
-### Academic Reports
+### 📄 Academic Reports
 - Database theory and concepts
 - Research papers on database tech
 - Real-world case studies

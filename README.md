@@ -74,7 +74,7 @@ To contribute, simply fork the repository and open a pull request.
 - Academic institutions
 - Open source community
 - All contributors
-- 
+
 ## 👤 Author
 **Eijkeyal Pakhrin**
 - GitHub: [Eijkeyal](https://github.com/Eijkeyal)  
